@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mohamed Khalifa, a part-time backend freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [MAKASK](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [MAKASK](https://github.com/makhalifa)  
   
 
 - 🌱 I’m currently learning Microservices and Kubernetes  
