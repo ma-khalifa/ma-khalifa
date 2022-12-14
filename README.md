@@ -1,3 +1,10 @@
+
+<div style="background-color:black">
+hello
+<img id="bg1" alt="Nodejs background" src="https://keenethics.com/wp-content/uploads/2021/08/Node.js_logo_2015-1-2.png">
+</div>
+
+<br>
 <h1 align="center">Hi 👋, I'm Mohamed Khalifa</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
@@ -5,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makhalifa&label=Visitors&color=0e75b6&style=flat" alt="makhalifa" /> </p>
 
-- 🔭 I’m currently working on **MAKASK**
+-   🔭 I’m currently working on **MAKASK**
 
-- 💬 Ask me about **node, express, mongo**
+-   💬 Ask me about **node, express, mongo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
