@@ -1,6 +1,5 @@
 
 <div style="background-color:black">
-hello
 <img id="bg1" alt="Nodejs background" src="https://keenethics.com/wp-content/uploads/2021/08/Node.js_logo_2015-1-2.png">
 </div>
 
